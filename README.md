@@ -376,6 +376,12 @@ python get_syllable_transition_graphs.py --labels-path "<PREDICTIONS_CSV>" --lab
 | `--permutation-threshold` | Apply a permutation-based threshold to graph edges. |
 | `--failed-trials-path` | CSV listing excluded trials. |
 
+## Authors
+
+**The Computational Grammar of Human Behaviour in a Biological Environment:** [Ulises Daniel Serratos Hernandez](https://github.com/uSerratos), Uzay Gökay, Lukas Kornemann, Yonatan Hutabarat, Debadrita Sen, Dominik R. Bach.
+
+**Development & Implementation:** [Ulises Daniel Serratos Hernandez](https://github.com/uSerratos).
+
 ## Citation
 
 If you use this repository, please cite our paper. A full citation and link to the open-access manuscript will be added when available.
